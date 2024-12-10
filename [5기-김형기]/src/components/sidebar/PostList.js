@@ -1,4 +1,4 @@
-import { request } from '../../\butils/api.js'
+import { request } from '../../utils/api.js'
 
 export default function PostList({ $target, initalState }) {
     const $postList = document.createElement('div')
